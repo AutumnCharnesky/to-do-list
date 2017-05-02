@@ -13,3 +13,13 @@ body {
   margin-top: 70px;
 
 }
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+#links {
+  float:right;
+  margin-right: 200px;
+  margin-top: 70px:
+}
